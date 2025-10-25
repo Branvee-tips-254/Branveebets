@@ -7,6 +7,11 @@ body {
   color: #222;
 }
 
+body {
+  min-height: 100vh;
+  overflow-y: auto;
+}
+
 /* Header */
 header {
   background: #111;
