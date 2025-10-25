@@ -1,8 +1,8 @@
 {
   "free": [
-    "Barcelona vs Liverpool — Home win",
+    "Barcelona vs Liverpool — Away win",
     "Man City vs Arsenal — Over 2.5 Goals",
-    "Chelsea to win and both teams to score",
-    "Real Madrid to win 2-0 correct score"
+    "Chelsea to win and btts yes",
+    "Real Madrid to win and over 2.5"
   ]
 }
